@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task2": {
+      "commandName": "Project",
+      "commandLineArgs": "test.json values.json report.json\r\n"
+    }
+  }
+}
